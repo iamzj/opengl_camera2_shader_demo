@@ -6,4 +6,5 @@ Camera2 + GLSurfaceView + opengl
 这里通过egl生成了SurfaceTexture, 给Camera显示使用.    
 使用了另一个图片饱和度的示例中的片元着色器.   
 
-
+### 效果    
+![gif](https://github.com/shaopx/opengl_camera2_shader_demo/blob/master/camera2_shader_demo.gif)
